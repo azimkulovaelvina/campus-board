@@ -1,0 +1,16 @@
+**/node_modules/
+**/dist/
+**/target/
+**/data/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+.idea/
+.vscode/
+**/*.db
+**/*.sqlite
+**/*.sqlite3
+**/coverage/
+**/.gradle/
